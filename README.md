@@ -8,6 +8,7 @@
 
 > **Decoding the hidden Waves: Revealing the Nature of Brain Activity**
 > [Riccardo Tedoldi](https://www.instagram.com/riccardotedoldi/)
+> 
 > Supervisor: [Uri Hasson](https://webapps.unitn.it/du/it/Persona/PER0048943/Pubblicazioni)
 >
 > *Artificial and Biological Neural Systems, Spring 2023* 
