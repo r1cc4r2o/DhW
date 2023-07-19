@@ -90,18 +90,3 @@ class Net(pl.LightningModule):
         scheduler = torch.optim.lr_scheduler.CosineAnnealingWarmRestarts(optimizer, T_0=10)
         return [optimizer], [scheduler]
 
-##########################################################################################################
-##########################################################################################################
-##########################################################################################################
-
-# example
-
-# x = torch.randn(32, 74, 26, 189)
-# target_face = torch.randn(32)
-
-# model = Net()
-
-# print(model)
-# # number of parameters
-# print('Number of parameters:',sum(p.numel() for p in model.parameters() if p.requires_grad)/1e6, 'M')
-# del model
