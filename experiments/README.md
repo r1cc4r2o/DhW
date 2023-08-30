@@ -22,6 +22,11 @@ This folder contains some of the experiments I carried out. The main objective o
 - [12_preprocess_emotion_recognition_data.ipynb](https://github.com/r1cc4r2o/DhW/blob/main/experiments/9_face_processing_read_preprocess_data.ipynb): Preprocessing Emotion Recognition dataset
 - [13_read_visual_stimuli_data.ipynb](https://github.com/r1cc4r2o/DhW/blob/main/experiments/13_read_visual_stimuli_data.ipynb): Read visual stimuli dataset
 - [15_mel_spectrogram.ipynb](https://github.com/r1cc4r2o/DhW/blob/main/experiments/15_mel_spectrogram.ipynb): Extract Mel-Spectrogram
+- [17_visual_stimuli_preproc.py](https://github.com/r1cc4r2o/DhW/blob/main/experiments/17_visual_stimuli_preproc.py): Pre-process visual stimuli dataset v2
+- [18_emotion_preproc.py](https://github.com/r1cc4r2o/DhW/blob/main/experiments/18_emotion_preproc.py): Pre-process emotion recognition dataset v2
+- [19_word_recog_data_preproc.py](https://github.com/r1cc4r2o/DhW/blob/main/experiments/19_word_recog_data_preproc.py): Pre-process word recognition dataset v2
+- [20_face_recog_data_preproc.py](https://github.com/r1cc4r2o/DhW/blob/main/experiments/20_face_recog_data_preproc.py): Pre-process face recognition dataset v2
+- [21_face_recog_data_morlet_preproc.py](https://github.com/r1cc4r2o/DhW/blob/main/experiments/21_face_recog_data_morlet_preproc.py): Pre-process face recognition dataset with morlet wavelet transform v2
 ---
 ### Trained Models
 - [6_latent_representation_visualstimuli.ipynb](https://github.com/r1cc4r2o/DhW/blob/main/experiments/6_latent_representation_visualstimuli.ipynb): Simple transformer-based architecture to perform inference

@@ -23,6 +23,11 @@ In this study, I investigated the representation of M/EEG in a feature space. Th
 
 ### Installation
 
+Clone the repository
+```bash
+git clone https://github.com/r1cc4r2o/DhW.git
+cd DhW
+```
 I report here the file to create a conda environment with all the requirements.
 
 ``` bash
@@ -37,7 +42,7 @@ conda activate <env-name>
 
 #### Datasets
 
-I release the data used in the experiments in a [gDrive](https://drive.google.com/drive/folders/11qvooftCfDQvlYDtIOJpJTIxlppzgWFW?usp=sharing) folder. The data that you can find there have been preprocessed and are ready to be used.
+I release the data used in the experiments in a [gDrive](https://drive.google.com/drive/folders/11qvooftCfDQvlYDtIOJpJTIxlppzgWFW?usp=sharing) folder. The data that you can find there have been preprocessed and are ready to be used. You can find the data in both the version: `with_pca` and `without_pca`. The data are in the form of `torch.tensor` and are ready to be used.
 
 ``` python
 import torch
